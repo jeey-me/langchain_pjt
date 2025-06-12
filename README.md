@@ -40,6 +40,6 @@ streamlit run main_app.py
 
 # meilisearch 실행방법 
 ```
-./meilisearch --master-key="aSampleMasterKey" 
+c" 
 https://www.meilisearch.com/docs/learn/self_hosted/getting_started_with_self_hosted_meilisearch
 ```
